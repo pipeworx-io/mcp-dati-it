@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/dati-it",
   "title": "Dati It",
   "description": "dati.gov.it MCP — Italy's national open-data portal (CKAN API).",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/dati-it",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-dati-it",
