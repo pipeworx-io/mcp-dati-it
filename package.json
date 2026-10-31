@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-dati-it",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "dati.gov.it MCP — Italy's national open-data portal (CKAN API).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "dati-it",
     "gatewaySlug": "dati-it",
-    "sourceHash": "v1-48ba16aee8548a4ba0684a10f7cd52eb238120a3874350c34d32a17919bd3acc",
-    "sourceCommit": "0b3faaa4d85299a961dd86dea75a0f0e1dad280c"
+    "sourceHash": "v1-d27a1905eb3c426276a990898be37d7e6c28fd81715f13251969dbbb8549d9b9",
+    "sourceCommit": "5ce1a05186d46479e23865c66bdb8579d8de445e"
   }
 }
